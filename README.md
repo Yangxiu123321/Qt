@@ -1,2 +1,2 @@
 # Qt
-Learn is less
+Qt的学习仓库
